@@ -1,0 +1,11 @@
+OGG, = glob_wildcards("{ogg}.fa")
+THREADS = 10
+
+rule all:
+	input: expand("{ogg}.nuc",ogg=OGG)
+
+rule muscle:
+	input: "{ogg}.fa"
+        output: "{ogg}.nuc"
+        threads: 10
+        shell: "mv {input} {output}"
