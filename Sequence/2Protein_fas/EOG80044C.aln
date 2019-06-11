@@ -1,0 +1,218 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Sdum            ---------MAEDYGTPTVSRREISPSALGDLNFDIEELDDKEFDLPTIDTPPTLESILN
+Smim            ---------MAEDYGTPTLSRREISPSALGDLNFDIEELDDKEFDLPTIDTPPTLESILN
+Lhes            LFTIIKCLDMADDFGTPTLPRREISPSVLGDLNFDIEELDDKEFDLPTIDTPPTLESILN
+Ptep            ---------MSEDFATPTLPRREISPSTLGDLNFDIEELDDKEFDLPTIDTPPTLESILN
+Agen            ---------MAEEEGTPTVSRRELTSTNLENLDFDIEELDDKEFDLPAIETAPTLESILN
+Lrec            ------------------------------------------------------------
+Ncla            ---------MAENEFVPDSD----ECLVAEAINLDIEELDNTEYAIPIVEELPTLESILM
+                                                                            
+
+Sdum            ETDDASLSDEEFSS--HVGYFQETCETTSIDSIESHTRRERKLSTHKEKKSPLFKKHGSI
+Smim            ETDDASLSDEEFSS--HVGYFQETCETTSIDSIESHTRRERKLSTHKEKKSPLFKKHGSI
+Lhes            ETDDASLSDEEFSN--QLGYFQETCETTSIDSLDSHSRRERKLSLRKEKKSPLFKKHGSI
+Ptep            ETDDASLSDEEFSS--HLGYFQETCETTSIDSLESHTRRERKLSSQKEKKSPQFKIHGSI
+Agen            ETDDASLSDEEFSS--QLGFFQEGEETTSIDSSESHSKKEERS---KGKKSPMYGIHGSI
+Lrec            ------------------------------------------------------------
+Ncla            EPDYESLSETEDDIGLSLGEKLGSSETTSIGSHLSLN------SLNKSSKTAHKPYSGVI
+                                                                            
+
+Sdum            LRHVTLRGVSAQLQS-AAERVNAGKPTSMAVS-SFIAVGTFHGITLIFDPQQVLKWCLGS
+Smim            LRHVTLRGVSAQLQS-AAERVNAGKPTSMAVS-SFIAVGTFHGITLIFDPQQVLKWCLGS
+Lhes            LRHVTLRGVSAQLQSYAAKPVNAGKPTSMAVS-SVIAIGTFHGITLIFDPQQVLKWCLGT
+Ptep            LRHVTLRGVSAQLQS-AAERVNAGKPTSMAVS-SVIAVGTFHGITLIFDPQQVLKWCLGT
+Agen            LRHVILRGVSSQLQS-AAERVNAGKPTAMAVS-SVIAIGTFHGVVLVFDPSQVLKWCLGS
+Lrec            ------------------------------------------------------------
+Ncla            LRHVILKGITSQIMS-ANERVNAGLASAVAAGGNMLVIGTSHGLILGFDSSQTLRWCDQE
+                                                                            
+
+Sdum            TDFGEKYGSVSALAFNTDCSRLLAGYSRGEITMWDLHKGKLIRTISDAHPMQNAVLHIKF
+Smim            TDFGEKYGSVSALAFNTDCSRLLAGYSRGEITMWDLHKGKLIRTISDAHPMQNAVLHIKF
+Lhes            TEYAEKYGSVSALAFNTDCSRLLAGYSRGEITMWDLHKGKLIRVISDAHPMQNAVLHIKL
+Ptep            TEYGEKYGSVSALAFNNDCSRLLAGYSRGEITMWDLHKGKLIRTISDAHPMQNAVLHIKF
+Agen            TTYGEEYGSVSALAFNSDCSRLLAGYSKGLITMWDLQKGKLLRTIADAHPPQTAVLHIKF
+Lrec            ------------------------------------------------------------
+Ncla            TRH---QGSVSALCFNHDGSRVLAGFVRGHILMLDSSNGKVLRILTDVHPLDTAVLHVKF
+                                                                            
+
+Sdum            TDDPTLALCSDSGGSVFELNFKRVMGTRTCETRCIFSGSRGEVCAVEPLRMTPHFRNHPS
+Smim            TDDPTLALCSDSGGSVFELNFKRVMGTRTCETRCIFSGSRGEVCAVEPLRMTPHFRNHPS
+Lhes            ------------------------------------------------------------
+Ptep            TDDPTLALCSDSGGSVFELNFKRVMGTRTCETRCIFSGSRGEVCAVEPLRMTPHFRNHPS
+Agen            TDDPTLALCSDSGGSVFELNFRRVMGTRTWETRCIFSGSRGEVCAVEPLKMTPNFRSHPS
+Lrec            ------------------------------------------------------------
+Ncla            TDSPKIALCSDSGGSVFELNFTRVIGIRGCDSRCLFSGSKGEVCTLEPLLLN-HLPSHPL
+                                                                            
+
+Sdum            QEVCLVALGTVTKVIAVTVRPSLRVWFTHALRADPDTLPVLSWQFVVIQVSSTTRIIDPV
+Smim            QEVCLVALGTVTKVIAVTVRPSLRVWFTHALRADPDTLPVLSWQFVVIQVSSTTRIIDPV
+Lhes            ------------------------------------------------------------
+Ptep            QEVCLVALGTVTKVIAVTVRPSLRVWFTHALRADPDTLPVLSWQFVVIQISSSTRIIDPV
+Agen            QDVCLVALGTVTKVIVVTVRPYLRVWFTHALKAEPDTLPVLSWQFVVIQVAPSTRIIDPV
+Lrec            ------------------------------------------------------------
+Ncla            KNYTLVAMATLSKVIIVCIRPRMRVVLSHPLTGAAIAPPQLSWQLVVIQTADGSRVIDPV
+                                                                            
+
+Sdum            LAFGRQSTIFFFQVNFASAEKINFIPLQKIELQYVFQNFAWLNSRTLVILDILEHLHVVD
+Smim            LAFGRQSTVFFFQVNFASAEKINFIPLQKVELQYVFQNFAWLNSRTLVILDILEHLHVVD
+Lhes            ------------------------------------------------------------
+Ptep            LAFGRQNTVNFFQVNFASAEKINFIPLQKLELPYSFQNFAWLNSRTLVTLDVSEHLHVID
+Agen            LAFGRQNQLYFFQVNFGSAEKINFIALQRIELQYVVQNFTWLNSRTLVTLDTSEHLHVID
+Lrec            ------------------------------------------------------------
+Ncla            LALARDNVVYFYQVYTEIGTRVKLSPLRRMTLPYMISNLRWLNPRSLVVLDTQEKLHLLD
+                                                                            
+
+Sdum            VKSEEELEVLDLVDVQLVYGTSHFKGLATGGNVSKAMAVAGERACYYSMAAFGSQLLLLG
+Smim            VKSEEELEVLDLVDVQLVYGTSHFKGLATGGNVSKAMAVAGERACYYSMAAFGSQLLLLG
+Lhes            ------------------------------------------------------------
+Ptep            VKSNEELEVLDLADVQLVYGTTHFKGLATGGNVSKAMAVAGERACYYSMSAFGSQLLILG
+Agen            VRSEEELEILDIADVQLVYGSSHFKGLATGGNVSKAMAVAGERACYYSMSAFGTQIILLG
+Lrec            ------------------------------------------------------------
+Ncla            VRAQDNLETLDMSRVGISYASSHFKGLSTGGNVSKAMALAGERACYNTVIVFGTQLLLLG
+                                                                            
+
+Sdum            VKSIHVMTMRTWNERIDFLVKQKMFSEALTLALSFYEENAKAVSGLIGKKSQRRELVATK
+Smim            VKSIHVMTMRTWNERIDFLVKQKMFSEALTLALSFYEENAKAVSGLIGKKSQRRELVATK
+Lhes            ------------------------------------------------------------
+Ptep            TKSIHVMTMRTWNERIEFLVKQKMFTEALSLALSFYEESAKAVSGLIGKKSQRKDLVAFK
+Agen            LKSIHVMTLRTWNERIDFLTKQNMYPEALALALSFYEEQAKAVTGLYGRKLQRKQKVAVK
+Lrec            ------------------------------------------------------------
+Ncla            IKSLHVICMRTWTERLQHLIVQKRFPEALALGLSFYQDKGKAVIGLRGSKQRRKQIARDK
+                                                                            
+
+Sdum            IIEILSIYVDQIMTQLCPERGRIELLMHHYQEKVPVCVDYCIAVERRDFLFGKMYESFQA
+Smim            IIEILSIYVDQIMTQLCPERGRIELLMHHYQEKVPICVDYCIAVERRDFLFGKMYESFQA
+Lhes            ------------------------------------------------------------
+Ptep            MLDILSIYVDLIMTQLCPERGKIEQLIHHYQEKIPLCVEYCVRVNKKDFLFGKMYERFQT
+Agen            IIEILGVYVDLIMTHLCPEHGKIELLMHHYKEVVPLCVDYCIAVDNRDFLFGKMYERFKA
+Lrec            MVELLATYVDLIMTHLCPDYGKIELLMHHYKETVPLCVDYCLTINKREFLFGKIYDRFKS
+Ncla            VCEVLVQYMDELNQCLIDEN-------TGYDTIVHTCVDYCIQLENLDLLFGKLWDIVFE
+                                                                            
+
+Sdum            DPLALGVFLESLEPYILDGRLKS-MTPQIVKEFVDHFSEKKKYNALEACIVRLDIASLDI
+Smim            DPLALGVFLESLEPYILDGRLKS-MTPQIVKDFVDHFSEKKMYDALEACIVRLDIASLDI
+Lhes            ------------------------------------------------------------
+Ptep            DPLALGVFLESLETYILDGRLRK-MTPQLVKDFVNHFAERKMFDALESCIVRLDIADLDI
+Agen            DPLAHGVFLESLEPYILDGRLAS-LTPAITKSFVNHYAEKQMFTSLESCLVRLDILNLDI
+Lrec            DPLAHGVFLESLEPHILDGRLVS-LTPLIAKDFVEHFSERQLFDSLESCLVRMDIADLDI
+Ncla            SEGLKTSYLHALEAPLLDGSLQSRLPPLIAQQLVTLYDQENKVDSLESIVVLLNVDCLDI
+                                                                            
+
+Sdum            HQVMTLCWNEGLYDAIIYIYNHGMIDYVTPFEDLMVILQKAVKR-GKQLTDDQIKLGNKL
+Smim            HQVMTLCWNEGLYDAIIYIYNHGMNDYVTPFGDLMVILQRAVKR-GKQLTDDQIKLGNKL
+Lhes            ------------------------------------------------------------
+Ptep            HQVMTLCWDQGLFDAIIYVYNKGMLDYVTPFEELMINLQKAVKR-GKQLTDDQIKLGNKL
+Agen            HQVMTLCWSQGLYDAIIYVYNSGMNDYTTPFEDLIVVLQEAVNR-GKQLTDDQIKLGNKL
+Lrec            HQG---VWHWEHF-----------------------------------------------
+Ncla            HQVTTICRQRGLWEALIYLQTTALGDFTAPIHQLVPALQNLLRDPLAALSRDCIKLGNAI
+                                                                            
+
+Sdum            LVYISCCLAGRAYPWGDIPQELASDVKFKVFHCVTNLHGKNMEDTE-IYPYLKTLLHFDT
+Smim            LVYISCCLAGRAYPWGDIPQELASDVKFKVFHCVTNLHGKNMEDTE-IYPYLKTLLHFDT
+Lhes            ------------------------------------------------------------
+Ptep            LVYISCCLAGRAYPCGNIPEGLASDVKYKVFQCVTSLHGKNGDDTE-IYPYLKTLLHFDT
+Agen            LVYISCCLAGRAYPWGDIPRDRVAVVKTKVFQCVTSLHGKDGTDTV-IYPYLKTLLHFDT
+Lrec            ------------------------------------------------------------
+Ncla            LVYTSCCLAGRGFPKDELPEGMPQKAKADILRALLSQHSSLANDMERQYPYLRTLLQFDA
+                                                                            
+
+Sdum            REFLNVLALAFEEPEFCTEVGLAQKQRVVDILLKIMVQNEGFLPTEIG--------ALFT
+Smim            REFLNVLALAFEEPEFCTEIGLAQKQRVVDILLKIMVQNEGFLPTEIG--------ALFT
+Lhes            ------------------------------------------------------------
+Ptep            REFLNVLALAFQEPEFSTDVGLSQKQRLVDILLKIMVQSEGFLPTEIG--------ALFT
+Agen            REFLNVLALAFEEQEFNTEYGLSQKQRIVDILLQIMVKTEGFSPTQVG--------ALFT
+Lrec            ------------------------------------------------------------
+Ncla            KGFLDVIAIAFQEPEFTSEMGLRHRQRLIDILLSIVMLNTPLTPKNIDYITLEQQFMVLI
+                                                                            
+
+Sdum            FLARQMAKQENSIMVNRL--LFEQVLEHLTNPGDETRLEERQQALMELLHAGGLAQVNEE
+Smim            FLARQMAKQENSIMVNRL--LFEQVLEHLTNPGDETRLEERQQALMELLHAGGLAQVNEE
+Lhes            ------------------------------------------------------------
+Ptep            FLARQMAKQENIIIVNRL--LFEQVLEHLTNPGDDTRIEERQQALMELIQAGGLAQVNEE
+Agen            FLARQMAKHENSIMVNRN--LFEQVLEHLTNPGDETRMEERQQALMELLLAGGLAQVNEE
+Lrec            ------------------------------------------------------------
+Ncla            FVANEVCESTVTLEYNTLNKMIDILCIDVHMELSKDFKTERENAVLGLLHSKKLCNISDN
+                                                                            
+
+Sdum            RVLALAERAKFYRVCEHLYEKHQQYDKILECYLQDPSRKLQVFYFIEKILNHPKRTAEEK
+Smim            RVLTLAERAKFYRVCEHLYEKHQQYDKILECYLQDPSRKLQVFYFIEKILNHPKRTAEEK
+Lhes            ------------------------------------------------------------
+Ptep            RVLVLAEKAKFYRVCEYLYEKHQLYDKILECYLQDPSRKLQVFYFIEKILNHPNRTLQEK
+Agen            RVLALAEKSKFYRVCEYLYMKHRQYDKIMGCYLLDPSRKPQVFYFINQVLNSQDLILDEK
+Lrec            ------------------------------------------------------------
+Ncla            TLLNLANRASFLRVVELLYSAREDWVAVCECMILEPLRHHDVWPWLEHLP---------A
+                                                                            
+
+Sdum            KALETRIIQSIEQLVDIDNRRTSQILLEFFPNQLLSVVTALKDSPEILYQFLQGLFSNKD
+Smim            KALETRIIQSIEQLVDIDNRRTSQILLEFFPNQLLSVVTALKDSPEILYQFLQGLFSNKD
+Lhes            ------------------------------------------------------------
+Ptep            KALEDKIISSIEQLVDIDNKRTSQILLEFFPNQLLNVVKALNNLPEILYQFLQGLFSNKE
+Agen            KSFEECIISSIEELVDIDNKRTSHILLEFFPSRLQDVVKLLKDKSQILYQLLQGLFSNRE
+Lrec            ------------------------------------------------------------
+Ncla            ASLDQVISVHTSTLLMINANQFATIVATRLQNKIDAILQSLTDNLSLEYKLFGALYQIAQ
+                                                                            
+
+Sdum            LG-SISPLSNKDTPIVDPLVVETYIDLMCQYDLNQVHNYLRRADGYRLEETLEICRKHNA
+Smim            LG-SISPLSNKDTPIIDPLVVETYIDLMCQYDLHQVHNYLRRADGYRL------------
+Lhes            ------------------------------------------------------------
+Ptep            LNTSTSTPSNKDAPMVDPVVVETYIELMCQYDLNQVHNYLKRADGYRLEETLEICRKYNA
+Agen            AQCGASGITTKDQPTIDPVVIEMYIELMCQYDPSLVHFYIRTVEGYRLEETLEICRQYNV
+Lrec            ------------------------------------------------------------
+Ncla            YK------EEDISLELTTEHLERYLALMCELEPARVVVHLHRAHGCRLDEALKIVQKWNC
+                                                                            
+
+Sdum            MEATAFLLERAGDIHGAFNIMLEGLQCKIKEVSHELLTSSTALNLEFSASWNELQSRVLV
+Smim            ------------------------------------------------------------
+Lhes            ------------------------------------------------------------
+Ptep            MEATAFLLERAGDIHGAFNIMLEGLRTKIKEVTEEILGATDTMQLDYLLSWNELQTRLLV
+Agen            MDATAYLLEKAGDIHGAFSIMLEGLQFRTKLVTEELLKNNSDIDLELSVSWNGLQTHLIV
+Lrec            ------------------------------------------------------------
+Ncla            KDAEAVMLEKLGNYQEAFDLLLKEFENRLEMYRQDKTSESETVHAAIQLAG---------
+                                                                            
+
+Sdum            IIQLCQRNSNKMNQDERELLWFPLLESMMAPQRQLRGRVNAEYLNAFKELTRHLLNNMMG
+Smim            ------------------------------------------------------------
+Lhes            ------------------------------------------------------------
+Ptep            IIQLCQRNSNKMNQEEREMLWFPLLEAMLVPQRQLRGRVNVSYLNAFKEQTRHLLNNMMG
+Agen            VIQLCQRNSNKMDQNERESLWFPLLEAMMAPQRQLRGRVNARYLDAFKELTRHLLNSMMG
+Lrec            ------------------------------------------------------------
+Ncla            ----------ICRRSAGNLDWMPLVEVMFRSHSENN-RQKVDILNG--KLLRLILESLSG
+                                                                            
+
+Sdum            YISLPAILQRVVQDPAYNTGKFGEIRELIMGMFETYNYEKTLLSTTTKLLNDDLHNQLRN
+Smim            ------------------------------------------------------------
+Lhes            ------------------------------------------------------------
+Ptep            YISLPAILQRVVQDPAYNTGKFGEIRELIMGMFETYNYEKTLLATTTKLLNDDLHKQLRH
+Agen            YISLPAILQRVVQDPAYNTGKFGEIRELIMGMFETYNYEKTLLKTTTHLLNNDLYTQLYK
+Lrec            ------------------------------------------------------------
+Ncla            TSILSNILEQILRNPSATSGTMGDIRQLLSGVLTQSRYEQTLVETTARLVSLELHKALET
+                                                                            
+
+Sdum            LCKTANQVFTCHDDVCLFCRNPLGDEENVEIIVFRCGHVYHTSCLGGIKKGNEEPLTYF-
+Smim            ------------------------------------------------------------
+Lhes            ------------------------------------------------------------
+Ptep            LCQSANQALINHNEICSFCLNQLDSDENVEILIFRCGHVYHASCLS-GKDGDEDVANYS-
+Agen            LCGTANKGYACHTNICHFCHSPLLSDSDADVAIFRCGHVYHSECIGNTKNSESVEFLHTS
+Lrec            ------------------------------------------------------------
+Ncla            SLRDAGRACSNVSITCPVCR-QPLSHCSDHVVVFGCGHGYHLTCLGEPKSCYKCLNTKGW
+                                                                            
+
+Sdum            --CLKCERHQRYEINVKNPRIRLRKPVMVPN---FKTRSKTSSFRETRLNAQQLQALEIV
+Smim            ------------------------------------------------------------
+Lhes            ------------------------------------------------------------
+Ptep            --CIKCSRHQRHINNVDHARISYRRNTAHPP---FKSRARTSSFKEARLNAQQLQALEFL
+Agen            WSCIKCVRKHRHPPIVKNPRIIDKSSLPFPKSGFSLERGRSVSTKEVHLNASQQQALDYL
+Lrec            ------------------------------------------------------------
+Ncla            APIATNVAHTVAQPPLRKKQLLPPEFLHHKDLVLRLAPSCSIPDLEGIF-----------
+                                                                            
+
+Sdum            RKCQKSS-RLSLIEELAYDDSKRTQQRSFESRKSDVG-LKLNLSPACKDDFVSEF
+Smim            -------------------------------------------------------
+Lhes            -------------------------------------------------------
+Ptep            RKIQKSH-RTSLFEDLIQDGSKKTLTGSPVKRAALDDTLKLNLAPAGNENFQSEF
+Agen            RMCQKTSSRLALLEDLSREQNRRSGSRTTSIRSSEDERLKLNLAPGWQGSFSSEF
+Lrec            -------------------------------------------------------
+Ncla            -------------------------------------------------------
+                                                                       
