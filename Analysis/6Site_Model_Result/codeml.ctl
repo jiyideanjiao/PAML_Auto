@@ -1,0 +1,12 @@
+seqfile = EOG8ZW7Z4.pml
+outfile = EOG8ZW7Z4.out
+treefile = phylogeny.tre
+verbose = 0
+CodonFreq = 2
+NSsites = 0 3 1 2 7 8
+fix_omega = 0
+runmode = 0
+seqtype = 1
+omega = 1
+noisy = 1
+model = 0
